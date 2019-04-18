@@ -16,5 +16,12 @@ public class DemoTest {
         System.out.println("HelloWorld");
     }
 
-
+    @Test
+    public void test100() {
+        System.out.println("houjundong haoshuai");
+    }
+    @Test
+    public void test101() {
+        System.out.println("houjundong chou");
+    }
 }
